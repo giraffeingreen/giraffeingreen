@@ -1,11 +1,5 @@
-# Welcome to your Jupyter Book
-
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
+# Welcome The Giraffe Notes
+ A place where I, Vio (giraffeingreen), unleash my wild thoughts, share my knowledge, and take you on a journey of mental aerobics. Whether you're here to learn something new or simply enjoy a cup of coffee as we explore together, let's have some fun and indulge in our curiosity!
 
 ```{tableofcontents}
 ```
